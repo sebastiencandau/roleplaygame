@@ -1,0 +1,15 @@
+/home/sebastien/perso/roleplaygame/roleplayGame/bin/Debug/net7.0/roleplayGame
+/home/sebastien/perso/roleplaygame/roleplayGame/bin/Debug/net7.0/roleplayGame.deps.json
+/home/sebastien/perso/roleplaygame/roleplayGame/bin/Debug/net7.0/roleplayGame.runtimeconfig.json
+/home/sebastien/perso/roleplaygame/roleplayGame/bin/Debug/net7.0/roleplayGame.dll
+/home/sebastien/perso/roleplaygame/roleplayGame/bin/Debug/net7.0/roleplayGame.pdb
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.csproj.AssemblyReference.cache
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.AssemblyInfoInputs.cache
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.AssemblyInfo.cs
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.csproj.CoreCompileInputs.cache
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.dll
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/refint/roleplayGame.dll
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.pdb
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/roleplayGame.genruntimeconfig.cache
+/home/sebastien/perso/roleplaygame/roleplayGame/obj/Debug/net7.0/ref/roleplayGame.dll
